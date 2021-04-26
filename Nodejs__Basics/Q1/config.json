@@ -1,0 +1,6 @@
+{
+	"reerEnabled": "spec, mocha-junit-reer",
+	"mochaJunitReerReerOptions": {
+		"mochaFile": "unit.xml"
+	}
+}
